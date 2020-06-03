@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82476918633",
+    "firebase_url": "https://henry-multiguna.firebaseio.com",
+    "project_id": "henry-multiguna",
+    "storage_bucket": "henry-multiguna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82476918633:android:63f5ae93f4bc18cf883ff8",
+        "android_client_info": {
+          "package_name": "com.henrypaytren.mymultiguna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82476918633-ko6etvf3b9pfnu0k8ek8iodv6mpfqdt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.henrypaytren.mymultiguna",
+            "certificate_hash": "c667785a2992abc6fc3ee941a1a6b6f0c07cef6e"
+          }
+        },
+        {
+          "client_id": "82476918633-liqncdve5jli3v77ou9n6ag9i3pmgnnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX7pafiGIf6QshqoxJ_xeVSryrObUQ8ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82476918633-liqncdve5jli3v77ou9n6ag9i3pmgnnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

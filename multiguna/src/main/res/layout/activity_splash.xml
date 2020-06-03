@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.splash.SplashActivity">
+    <RelativeLayout
+        android:id="@+id/layout_splash"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:src="@drawable/ic_home"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible">
+    
+            <View
+                android:id="@+id/view_background"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary" />
+            <LinearLayout
+                android:id="@+id/layout_welcome"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="W E L C O M E"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_title"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:visibility="gone"
+                    app:fontFamily="@font/shadows_into_light_two"
+                    tools:ignore="MissingConstraints" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="To"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_2xl"
+                    android:visibility="gone"
+                    android:layout_marginTop="@dimen/margin_2"
+                    android:textStyle="bold"
+                    app:fontFamily="@font/shadows_into_light_two"
+                    tools:ignore="MissingConstraints" />
+                
+                <ImageView
+                    android:layout_width="@dimen/width_splash_icon"
+                    android:layout_height="@dimen/width_splash_icon"
+                    android:layout_gravity="center"
+                    app:srcCompat="@drawable/ic_splash_image"/>
+                
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/lato"
+                    android:text="@string/splash_quote"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/text_size_large"
+                    android:layout_marginTop="@dimen/margin_2"
+                    tools:ignore="MissingConstraints" />
+            </LinearLayout>
+        </RelativeLayout>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            android:visibility="gone"
+            app:srcCompat="@drawable/ic_splash_fullscreen"/>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

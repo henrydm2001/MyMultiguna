@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Multiguna</string>
+    <string name="splash_quote">From zero to billion.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    
+    <string name="title_user_email">henrypaytren@gmail.com</string>
+    <string name="title_user_skype">hdamanik</string>
+    <string name="title_user_website">https://henryhardborntech.blogspot.com</string>
+    <string name="title_about_us">I am of professional designers &amp; developers known as Papaghani.
+        I am providing business solutions with services in Android, iOS and website application design and development.
+        I guarantee all of our work, and, that you will be happy. Let’s us complete your project.</string>
+    
+    <!-- set admob key ex: ca-app-pub-3940256099942544~XXXXXXX-->
+    <string name="admob_app_id">ca-app-pub-1001893082719335~2222675484</string>
+
+    <!-- set onesignal key ex: a87c2f38-c8a1-4e52-a46a-XXXXXXXXXXXX-->
+    <string name="onesignal_app_id">a87c2f38-c8a1-4e52-a46a-70b7a7ef278e</string>
+
+    <!-- Notification Messaging Service -->
+    <string name="notification_title">@string/app_name</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <!-- library text. Do not change the key -->
+    <string name="loading">Loading…</string>
+    <string name="error_title">Something went wrong!</string>
+    <string name="error_occurred">An error occurred. We\'re deeply sorry.</string>
+    <string name="massage_nointernet">Please check your internet connection.</string>
+    <string name="massage_error_username">User name is empty</string>
+    <string name="massage_error_password">Password is empty</string>
+    <string name="massage_exit">Please click BACK again to exit</string>
+    <string name="massage_error_io">The rocket_web.io is not valid! \nDownload again from help.infixsoft.com \n Or contact with author!!</string>
+    <string name="error_details">Error details:</string>
+    <string name="unknown_exception">Unknown exception</string>
+    <string name="restart_app">Restart app</string>
+    <string name="close_app">Close app</string>
+
+    <!-- Labels -->
+    <string name="label_registration">Sign Up</string>
+    <string name="label_login">Sign In</string>
+    <string name="label_confirm">Confirm</string>
+    <string name="label_signIn">Sign In</string>
+    <string name="label_signOut">Sign Out</string>
+    <string name="label_verify">Verify</string>
+    <string name="label_whoops">Whoops!</string>
+    <string name="label_forgotPassword">Forgot password?</string>
+    <string name="label_dont_have_account">Don\'t have an account?</string>
+    <string name="label_tryAgain">Try again</string>
+    <string name="label_go_home">Go home</string>
+    <string name="label_off">Off</string>
+    <string name="label_file_chooser">File Chooser</string>
+    <string name="label_noInternet">No internet found. \n Check your connection or try again!!</string>
+    <string name="label_error">Web service url page not found, try again!!</string>
+
+    <!-- menu -->
+    <string name="menu_home">Home</string>
+    <string name="menu_rate">Rate Us</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_theme">Select Theme</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+    <!-- custom theme -->
+    <string name="label_custom_theme_title">Customize your own way</string>
+    <string name="label_custom_theme_detail">Rocket web give you the power of better UI customization experience. It\'s easy to choose your own theme style and apply to your project. Based on your UI recruitment choose Toolbar style, left-right button action, app Theme, loader style. After that go back home to see the changes.</string>
+    <string name="label_navigation_bar_style">Navigation bar style</string>
+    <string name="label_turn_off_bar">Turn Off Navigation Bar</string>
+    <string name="label_left_button">Left Button Option</string>
+    <string name="label_no_option">No Option</string>
+    <string name="label_side_menu">Side Menu</string>
+    <string name="label_reload">Reload</string>
+    <string name="label_share">Share</string>
+    <string name="label_home">Home</string>
+    <string name="label_right_button">Right Button Option</string>
+    <string name="label_collapse_menu">Collapse Menu</string>
+    <string name="label_active_control">Active Control</string>
+    <string name="label_share_reload"><![CDATA[Share & Reload]]></string>
+    <string name="label_banner">Banner</string>
+    <string name="label_interstitial">Interstitial</string>
+    <string name="label_video">Vieo</string>
+    <string name="label_color_style">Color Style</string>
+    <string name="label_loader_animation">Loader Animation</string>
+    <string name="label_back_to_home">Back to Home Page</string>
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines_ -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tabsHeight">48dp</dimen>
+
+    <!--Default value for margin-->
+    <dimen name="margin_1">4dp</dimen>
+    <dimen name="margin_2">8dp</dimen>
+    <dimen name="margin_3">12dp</dimen>
+    <dimen name="margin_4">16dp</dimen>
+    <dimen name="margin_5">20dp</dimen>
+    <dimen name="margin_6">24dp</dimen>
+    <dimen name="margin_7">28dp</dimen>
+    <dimen name="margin_8">32dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="text_size_nano">7sp</dimen>
+    <dimen name="text_size_micro">9sp</dimen>
+    <dimen name="text_size_small">10sp</dimen>
+    <dimen name="text_size_regular">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_xl">18sp</dimen>
+    <dimen name="text_size_2xl">20sp</dimen>
+    <dimen name="text_size_3xl">22sp</dimen>
+    <dimen name="text_size_4xl">24sp</dimen>
+    <dimen name="text_size_5xl">26sp</dimen>
+    <dimen name="text_size_6xl">28sp</dimen>
+    <dimen name="text_size_7xl">30sp</dimen>
+    <dimen name="text_size_superXl">50sp</dimen>
+    <dimen name="text_size_tab">@dimen/text_size_medium</dimen>
+    <dimen name="text_size_title">@dimen/text_size_7xl</dimen>
+    <dimen name="text_size_subTitle">@dimen/text_size_3xl</dimen>
+    <dimen name="sidebar_logo">56dp</dimen>
+
+    <!-- custom -->
+    <dimen name="card_custom_item">200dp</dimen>
+    <dimen name="card_custom_item_height">80dp</dimen>
+    <dimen name="card_custom_theme">150dp</dimen>
+    <dimen name="card_custom_theme_height">180dp</dimen>
+    <dimen name="card_custom_loader">100dp</dimen>
+    <dimen name="card_custom_loader_item">70dp</dimen>
+
+    <dimen name="width_custom_button">130dp</dimen>
+    <dimen name="height_custom_button">50dp</dimen>
+
+    <!-- splash logo size-->
+    <dimen name="width_splash_icon">150dp</dimen>
+    <dimen name="margin_splash_icon">120dp</dimen>
+
+
+
+    <!--- theme -->
+    <dimen name="toolbar_custom_icon">32dp</dimen>
+    <dimen name="home_custom_loader">100dp</dimen>
+
+</resources>
