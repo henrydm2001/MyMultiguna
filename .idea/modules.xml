@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyMultiguna.iml" filepath="$PROJECT_DIR$/.idea/modules/MyMultiguna.iml" group="MyMultiguna" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyMultiguna.iml" filepath="$PROJECT_DIR$/.idea/MyMultiguna.iml" group="MyMultiguna" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiguna/multiguna.iml" filepath="$PROJECT_DIR$/.idea/modules/multiguna/multiguna.iml" group="MyMultiguna/multiguna" />
     </modules>
   </component>

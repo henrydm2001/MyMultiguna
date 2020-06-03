@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: ./multiguna/libs/library.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2450df5af91932b9c6213e84a974fca6/jetified-library/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2450df5af91932b9c6213e84a974fca6/jetified-library/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
